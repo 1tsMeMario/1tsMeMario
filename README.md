@@ -1,3 +1,13 @@
+[![1tsMeMario's GitHub stats](https://github-readme-stats.vercel.app/api?username=1tsMeMario)](https://github.com/1tsMeMario/github-readme-stats)
+
+
+
+
+
+
+
+
+
 <h2 align="left">Hi, I'm Mario</h2>
 
  <p align="center"><br>
