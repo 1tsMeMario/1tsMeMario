@@ -11,9 +11,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FaxHack&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&card_width=320" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats-teal-gamma.vercel.app?user=FaxHack&theme=radical&border_radius=5&hide_border=true&card_width=320" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FaxHack&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=1tsMeMario&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&card_width=320" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats-teal-gamma.vercel.app?user=1tsMeMario&theme=radical&border_radius=5&hide_border=true&card_width=320" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1tsMeMario&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -61,16 +61,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/FaxHack/FaxHack/output/snake.svg" alt="Snake animation" />
-
-</p>
-<p>&nbsp;</p>
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/FaxHack/count.svg" />
-</p>
-<p align="center">
-	<img height="40" src="https://media.discordapp.net/attachments/846713231661727784/919876399563681862/file.gif">&nbsp;
-</p>
